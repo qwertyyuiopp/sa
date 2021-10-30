@@ -1,0 +1,26 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    scroll-behavior: smooth;
+    
+}
+#home {
+width:1175px;
+height:715px;
+
+}
+.list {
+font-weight: bold;
+}
+#servicetitle1 {
+text-align: center;
+color:#FFA726;
+}
+.servicesubtitles {
+color:#FFA726;    
+}
+.serviceparagraphs {
+color:white;    
+    
+}
